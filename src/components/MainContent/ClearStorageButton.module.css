@@ -1,0 +1,11 @@
+.clearButtonWrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 3rem;
+}
+
+.clearButton{
+    flex-basis: 20%;
+    
+}

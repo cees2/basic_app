@@ -1,0 +1,13 @@
+.closeButton{
+    position: fixed;
+    left: 100%;
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+    width: 2.5rem;
+    height: 2.5rem
+}
+
+.closeButton:hover{
+    cursor: pointer;
+    background-color: rgb(103, 77, 77);
+}
